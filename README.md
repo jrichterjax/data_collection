@@ -2,7 +2,7 @@
 
 In this challenge, data is scraped from two sites which contain Mars news and Mars weather information.  
 
-Part 1 scrapes the text elements from the Mars news site and stores the title and preview taxt in a list of dictionaries.
+Part 1 scrapes the text elements from the Mars news site and stores the title and preview text in a list of dictionaries.
 
 Part 2 scrapes all data from the Mars weather site and stores the data in a Pandas Dataframe. Using the stored data, the following questions are answered:
 
